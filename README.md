@@ -20,7 +20,7 @@ pip install jsonschema-pydantic
 
 ## Usage
 
-```
+```python
 from jsonschema_pydantic import jsonschema_to_pydantic
 
 jsonschema = {
